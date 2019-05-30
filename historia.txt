@@ -1,1 +1,3 @@
-esta es la historia de marco serrate 
+Mi nombre es Marco Serrate, tengo 25 años.
+Esta es mi primera actualizacion de archivo.
+Esto desarrollando el curso de GITHUB en windows. 
