@@ -1,5 +1,5 @@
-Mi nombre es Marco Serrate, tengo 25 años.
+﻿Mi nombre es Marco Serrate, tengo 25 años.
 Esta es mi primera actualizacion de archivo.
 Esto desarrollando el curso de GITHUB en windows.
 
-Hoy es miercoles 30 de mayo y ya estoy comenzando.
+Hoy es 31/05 , vamos arrancar con Html y css.
