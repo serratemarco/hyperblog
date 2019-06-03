@@ -10,12 +10,11 @@
 
 #cabecera #tagline
 {
-    font-family: Arial, Helvetica, sans-serif
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
-x
+
 #container
 {
     width: 70%;
